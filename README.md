@@ -14,6 +14,8 @@ ejsoon@126.com(中國大陸)
 
 * [演示位址](http://ejsoon.jlljxcx.com/ykey)
 
+* ![系統截圖](https://github.com/ejsoonyang/ykey_search/raw/master/screenshot.png)
+
 安裝步驟
 ---
 一，請將connect_db.php中的服務器，用戶名，密碼，數據庫名正確填寫。
