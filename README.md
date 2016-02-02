@@ -14,7 +14,7 @@ ejsoon@126.com(中國大陸)
 
 * [演示位址](http://ejsoon.jlljxcx.com/ykey)
 
-* ![系統截圖](https://github.com/ejsoonyang/ykey_search/raw/master/screenshot.png)
+* ![系統截圖](/screenshot.png)
 
 安裝步驟
 ---
